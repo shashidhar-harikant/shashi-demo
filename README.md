@@ -1,2 +1,2 @@
 # shashi-demo
-author - shashidhar
+author - shashidhar harikant
